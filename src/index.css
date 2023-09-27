@@ -1,0 +1,23 @@
+body {
+  background: #222;
+}
+
+.container {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.btn {
+  font-size: 62px;
+}
+
+h1 {
+  color: rgb(43 142 43);
+}
+
+.result {
+  color: #ffd700;
+  font-size: 20px;
+}
